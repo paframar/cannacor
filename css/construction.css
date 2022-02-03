@@ -25,7 +25,7 @@
 }
 
 body{
-    background-color:var(--Licorice);
+    background-color:var(--OrionBlue);
 }
 
 
@@ -54,16 +54,21 @@ body{
 .construction-container{
     margin: 12px 12px 12px 12px;
     padding:12px;
+    border-width: 0.5px;
+
 }
 .construction-title{
     color: var(--white);
     background-color: var(--Diaphonous);
+
     
     border-radius: 8px;
     padding: 0 12px 0 12px;
     text-align: center;
     border-color: var(--ForestBiome);
-    border-width: 5px;
+    border-width: 2px;
+    box-shadow: 2px 2px 2px 2px var(--CaptainsBlue);
+
 
     border-radius: 8px;
     border-style: solid;
@@ -71,14 +76,25 @@ body{
     font-weight: bolder;
 }   
 .construction-sub-title{
-    color: var(--green2);
+
     font-weight: lighter;
     padding:12px;
+
+
 
     border-radius: 8px;
     width: 80%;
     text-align: center;
     color:var(--BrightWhite);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.construction-disclaimer{
+    color: var(--MoonlightJade);
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
