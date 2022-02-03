@@ -61,14 +61,12 @@ body{
     color: var(--white);
     background-color: var(--Diaphonous);
 
-    
     border-radius: 8px;
     padding: 0 12px 0 12px;
     text-align: center;
     border-color: var(--ForestBiome);
     border-width: 2px;
     box-shadow: 2px 2px 2px 2px var(--CaptainsBlue);
-
 
     border-radius: 8px;
     border-style: solid;
