@@ -25,7 +25,7 @@
 }
 
 body{
-    background-color:var(--CaptainsBlue);
+    background-color:var(--Licorice);
 }
 
 
@@ -63,15 +63,17 @@ body{
     padding: 0 12px 0 12px;
     text-align: center;
     border-color: var(--ForestBiome);
-    border-width: 0.5px;
+    border-width: 5px;
 
     border-radius: 8px;
     border-style: solid;
-    font-size: 36px;
+    font-size: 64px;
+    font-weight: bolder;
 }   
 .construction-sub-title{
     color: var(--green2);
     font-weight: lighter;
+    padding:12px;
 
     border-radius: 8px;
     width: 80%;
